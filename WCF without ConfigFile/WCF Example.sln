@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFCalc Client", "WCF Calc Client\WCFCalc Client.csproj", "{B7B06060-CAFC-4E37-A494-96D7DA0A0287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFCalc Server", "WCF Calc Server\WCFCalc Server.csproj", "{1F130506-6D1D-40D8-8320-3AC9D3947523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFCalc Services", "WCF Calc Services\WCFCalc Services.csproj", "{B5E7D0AE-C08B-4317-B3E1-C03154CE41B9}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs35
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WCF\u0020Calc\u0020Client\\WCFCalc\u0020Client.csproj
+		SccProjectName1 = WCF\u0020Calc\u0020Client
+		SccLocalPath1 = WCF\u0020Calc\u0020Client
+		SccProjectUniqueName2 = WCF\u0020Calc\u0020Server\\WCFCalc\u0020Server.csproj
+		SccProjectName2 = WCF\u0020Calc\u0020Server
+		SccLocalPath2 = WCF\u0020Calc\u0020Server
+		SccProjectUniqueName3 = WCF\u0020Calc\u0020Services\\WCFCalc\u0020Services.csproj
+		SccProjectName3 = WCF\u0020Calc\u0020Services
+		SccLocalPath3 = WCF\u0020Calc\u0020Services
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B06060-CAFC-4E37-A494-96D7DA0A0287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B06060-CAFC-4E37-A494-96D7DA0A0287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B06060-CAFC-4E37-A494-96D7DA0A0287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B06060-CAFC-4E37-A494-96D7DA0A0287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F130506-6D1D-40D8-8320-3AC9D3947523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F130506-6D1D-40D8-8320-3AC9D3947523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F130506-6D1D-40D8-8320-3AC9D3947523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F130506-6D1D-40D8-8320-3AC9D3947523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E7D0AE-C08B-4317-B3E1-C03154CE41B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E7D0AE-C08B-4317-B3E1-C03154CE41B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E7D0AE-C08B-4317-B3E1-C03154CE41B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E7D0AE-C08B-4317-B3E1-C03154CE41B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
